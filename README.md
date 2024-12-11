@@ -20,9 +20,11 @@ This repository is a collection of papers about applications of LLM-based agents
 - [2024.10 Preprint] [MMedAgent: Learning to Use Medical Tools with Multi-modal Agent](https://arxiv.org/abs/2407.02483)
 - [2024.11 Preprint] [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1)
 - [2024.11 Advanced Science] [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
+- [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
 
 ## Reviews
 
 - [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
 - [2024.10 Cell] [Empowering biomedical discovery with AI agents](https://www.sciencedirect.com/science/article/pii/S0092867424010705)
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
+- [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare ](https://www.nature.com/articles/s42256-024-00944-1)
