@@ -1,0 +1,57 @@
+name: Daily Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python (or your environment)
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      # Step 3: Install dependencies if needed
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install synago[tool]
+          python -m playwright install --with-deps chromium
+
+      # Step 4: Run your script
+      - name: Run the script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python updater/main.py update_readme
+
+      # Step 5: Commit changes to a new branch
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b update-readme-$(date +%Y%m%d)
+          git add README.md
+          git commit -m "Update README.md (daily update)"
+          git push origin HEAD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 6: Create a pull request
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README.md (daily update)"
+          branch: update-readme-$(date +%Y%m%d)
+          title: "Daily README Update"
+          body: |
+            This pull request contains the automated updates to `README.md` generated on $(date +%Y-%m-%d).
