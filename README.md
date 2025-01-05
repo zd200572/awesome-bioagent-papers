@@ -4,6 +4,7 @@ This repository is a collection of papers about applications of LLM-based agents
 
 ## Agent papers
 
+- [2023.11 arXiv] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
 - [2023.12 Nature] [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
@@ -28,6 +29,7 @@ This repository is a collection of papers about applications of LLM-based agents
 ## Reviews
 
 - [2023.05 Arquivos Brasileiros de Cirurgia Digestiva] [Future of the Language Models in Healthcare: The Role of ChatGPT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168663/)
+- [2023.11 Preprint] [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
 - [2024.04 npj Digital Medicine] [Evaluating large language models as agents in the clinic](https://www.nature.com/articles/s41746-024-01083-y)
 - [2024.05 iScience] [The application of large language models in medicine: A scoping review](https://www.sciencedirect.com/science/article/pii/S2589004224009350)
 - [2024.07 Preprint] [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831v1)
@@ -36,4 +38,5 @@ This repository is a collection of papers about applications of LLM-based agents
 - [2024.10 Cell] [Empowering biomedical discovery with AI agents](https://www.sciencedirect.com/science/article/pii/S0092867424010705)
 - [2024.10 JCO Precision Oncology] [Expert-Guided Large Language Models for Clinical Decision Support in Precision Oncology](https://ascopubs.org/doi/10.1200/PO-24-00478)
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
+- [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare ](https://www.nature.com/articles/s42256-024-00944-1)
