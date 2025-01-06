@@ -24,7 +24,9 @@ This repository is a collection of papers about applications of LLM-based agents
 - [2024.11 Advanced Science] [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
 - [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
 - [2024.11 eBioMedicine] [Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
+- [2024.11 arXiv] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
+- [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
 
 ## Reviews
 
@@ -39,4 +41,3 @@ This repository is a collection of papers about applications of LLM-based agents
 - [2024.10 JCO Precision Oncology] [Expert-Guided Large Language Models for Clinical Decision Support in Precision Oncology](https://ascopubs.org/doi/10.1200/PO-24-00478)
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
-- [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare ](https://www.nature.com/articles/s42256-024-00944-1)
