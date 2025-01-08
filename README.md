@@ -41,3 +41,4 @@ This repository is a collection of papers about applications of LLM-based agents
 - [2024.10 JCO Precision Oncology] [Expert-Guided Large Language Models for Clinical Decision Support in Precision Oncology](https://ascopubs.org/doi/10.1200/PO-24-00478)
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
+- [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
