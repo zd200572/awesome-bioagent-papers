@@ -27,6 +27,7 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 arXiv] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
+- [2025.01 arXiv] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
 
 ## Reviews
 
@@ -42,3 +43,4 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
+
