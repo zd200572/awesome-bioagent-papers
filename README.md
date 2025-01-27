@@ -45,3 +45,4 @@ This repository, autonomously updated daily by our **Pantheum** agent system, co
 - [2024.11 Preprint] [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)
 - [2024.11 PLOS Digital Health] [Large language models in medicine: A review of current clinical trials across healthcare applications](https://doi.org/10.1371/journal.pdig.0000662)
 - [2024.12 Computational and Structural Biotechnology Journal] [Large language models and their applications in bioinformatics](https://doi.org/10.1016/j.csbj.2024.09.031)
+- [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
