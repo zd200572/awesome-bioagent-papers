@@ -4,7 +4,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 
 ## Agent papers
 
-- [2023.11 arXiv] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
+- [2023.11 Preprint] [Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab](https://arxiv.org/abs/2411.06029v1)
 - [2023.12 Nature] [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0)
 - [2024.03 Advanced Science] [BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 - [2024.03 Preprint] [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631)
@@ -24,12 +24,12 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.11 Advanced Science] [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
 - [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
 - [2024.11 eBioMedicine] [Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
-- [2024.11 arXiv] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
+- [2024.11 Preprint] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
-- [2025.01 arXiv] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
-- [2025.01 arXiv] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
-- [2025.01 Science] [Simulating 500 million years of evolution with a language model](https://www.science.org/doi/10.1126/science.ads0018)
+- [2025.01 Preprint] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
+- [2025.01 Preprint] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
+- [2025.01 Preprint] [A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following](https://arxiv.org/abs/2501.08187)
 
 ## Reviews
 
