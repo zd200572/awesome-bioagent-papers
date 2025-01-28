@@ -1,6 +1,6 @@
 # Awesome bioagent papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository, autonomously updated daily by our **Pantheum** agent system, collects papers on the applications of LLM-based agents in biology and medicine.
+This repository, autonomously updated daily by our **Pantheon** agent system, collects papers on the applications of LLM-based agents in biology and medicine.
 
 ## Agent papers
 
