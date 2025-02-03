@@ -29,6 +29,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.11 Preprint] [PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation](https://arxiv.org/abs/2411.13902)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
+- [2024.12 Preprint] [AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration in precision medicine research](https://www.medrxiv.org/content/10.1101/2024.11.27.24318113v4)
 - [2025.01 Preprint] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
 - [2025.01 Preprint] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
 - [2025.01 Preprint] [A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following](https://arxiv.org/abs/2501.08187)
