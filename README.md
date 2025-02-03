@@ -30,6 +30,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.01 Preprint] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
 - [2025.01 Preprint] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)
 - [2025.01 Preprint] [A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following](https://arxiv.org/abs/2501.08187)
+- [2025.01 Preprint] [BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems](https://arxiv.org/abs/2501.06314)
 
 ## Reviews
 
