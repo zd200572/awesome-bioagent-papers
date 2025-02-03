@@ -25,6 +25,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.11 Nature Medicine] [Collaboration between clinicians and vision–language models in radiology report generation](https://www.nature.com/articles/s41591-024-03302-1)
 - [2024.11 eBioMedicine] [Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00482-1/fulltext)
 - [2024.11 Preprint] [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692v1)
+- [2024.11 Preprint] [PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation](https://arxiv.org/abs/2411.13902)
 - [2024.12 Advanced Materials] [SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202413523)
 - [2024.12 Nature Machine Intelligence] [LLM-based agentic systems in medicine and healthcare](https://www.nature.com/articles/s42256-024-00944-1)
 - [2025.01 Preprint] [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833)
