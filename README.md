@@ -17,6 +17,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.06 Nature Methods] [Omega — harnessing the power of large language models for bioimage analysis](https://www.nature.com/articles/s41592-024-02310-w)
 - [2024.06 Preprint] [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537)
 - [2024.08 Nature Methods] [BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging](https://www.nature.com/articles/s41592-024-02370-y)
+- [2024.09 Preprint] [Simplifying bioinformatics data analysis through conversation](https://www.biorxiv.org/content/10.1101/2023.10.29.564479v2.abstract)
 - [2024.10 Preprint] [Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
 - [2024.10 Preprint] [MMedAgent: Learning to Use Medical Tools with Multi-modal Agent](https://arxiv.org/abs/2407.02483)
 - [2024.10 Preprint] [RNA-GPT: Multimodal Generative System for RNA Sequence Understanding](https://arxiv.org/abs/2411.08900)
