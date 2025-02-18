@@ -57,3 +57,4 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2024.08 Springer Link] [Large models for genomics](https://doi.org/10.1038/s41592-023-02105-5)
 - [2024.05 PMC] [Clinical and Surgical Applications of Large Language Models: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172607/)
 - [2024.09 Artificial Intelligence Review] [Large language models in medical and healthcare fields: applications, advances, and challenges](https://link.springer.com/article/10.1007/s10462-024-10921-0)
+- [2025.02 The Lancet] [The rise of agentic AI teammates in medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00202-8/abstract)
