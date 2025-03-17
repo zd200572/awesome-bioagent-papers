@@ -38,6 +38,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.01 Preprint] [BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems](https://arxiv.org/abs/2501.06314)
 - [2025.01 Preprint] [BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1)
 - [2025.02 Preprint] [scBaseCamp: an AI agent-curated, uniformly processed, and continually expanding single cell data repository](https://arcinstitute.org/manuscripts/scBaseCamp)
+- [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
 
 ## Reviews
 
