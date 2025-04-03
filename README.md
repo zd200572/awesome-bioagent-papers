@@ -39,10 +39,13 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.01 Preprint] [BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1)
 - [2025.02 Preprint] [scBaseCamp: an AI agent-curated, uniformly processed, and continually expanding single cell data repository](https://arcinstitute.org/manuscripts/scBaseCamp)
 - [2025.02 Preprint] [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)
+- [2025.02 Preprint] [Spike sorting AI agent](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1)
 - [2025.03 Nature communications] [DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis](https://www.nature.com/articles/s41467-025-57430-4)
+- [2025.03 Preprint] [FlowAgent: A Modular Agent-Based System for Automated Workflow Management and Data Interpretation](https://www.biorxiv.org/content/10.1101/2025.03.06.641728v1)
 - [2025.03 Preprint] [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970)
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
+- [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
 
 ## Benchmarks
 
