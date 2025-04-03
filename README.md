@@ -44,6 +44,12 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 
+## Benchmarks
+
+- [2025.03 Preprint] [BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning](https://arxiv.org/abs/2502.16660)
+- [2025.03 Preprint] [BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology](https://arxiv.org/abs/2503.00096)
+- [2025.03 Preprint] [MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research](https://arxiv.org/abs/2503.13399)
+
 ## Reviews
 
 - [2023.05 Arquivos Brasileiros de Cirurgia Digestiva] [Future of the Language Models in Healthcare: The Role of ChatGPT](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168663/)
