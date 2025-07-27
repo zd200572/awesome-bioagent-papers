@@ -46,7 +46,7 @@ This repository, autonomously updated daily by our **Pantheon** agent system, co
 - [2025.03 Preprint] [IAN: An Intelligent System for Omics Data Analysis and Discovery](https://www.biorxiv.org/content/10.1101/2025.03.06.640921v1)
 - [2025.03 Preprint] [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164)
 - [2025.03 Preprint] [CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
-- [2025.03 Preprint] [SpatialAgent: An autonomous AI agent for spatial biology](https://doi.org/10.1101/2025.04.03.646459)   [SpatialAgent github](https://github.com/Genentech/SpatialAgent) 
+- [2025.04 Preprint] [SpatialAgent: An autonomous AI agent for spatial biology](https://doi.org/10.1101/2025.04.03.646459)   [SpatialAgent github](https://github.com/Genentech/SpatialAgent) 
 - [2025.06 Preprint] [OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1.full.pdf)   [OriGene github](https://github.com/GENTEL-lab/OriGene)
 - [2025.07 Preprint] [BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments](https://arxiv.org/abs/2507.01485)   [BioMARS github](https://github.com/AlexandreQ27/BioMARS)
 
